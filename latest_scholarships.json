@@ -1,120 +1,119 @@
 [
   {
-    "id": 48291,
-    "name": "DAAD Study Scholarships for Master's in Fine Art, Design, Visual Communication and Film",
-    "country": "Germany",
-    "fundingBody": "German Academic Exchange Service (DAAD)",
-    "degreeLevels": [
-      "MA"
-    ],
-    "fundingType": "Full",
-    "coverage": "Monthly stipend (€934), travel allowance, health insurance, and study/research allowance.",
-    "language": "Both",
-    "deadline": "November 2025",
-    "eligibility": "Egyptian nationals and foreign applicants holding a bachelor's degree in Fine Arts, Film, Design, or Visual Communication.",
-    "fields": [
-      "Fine Arts",
-      "Design",
-      "Film"
-    ],
-    "competitiveness": "Very High",
-    "notes": "Selection requires a comprehensive artistic portfolio evaluated by an independent committee.",
-    "linkUrl": "https://www.daad.de/en/study-and-research-in-germany/scholarships/"
-  },
-  {
-    "id": 71043,
-    "name": "Chevening UK Government Scholarships for Egypt",
+    "id": 48201,
+    "name": "Chevening Scholarship",
     "country": "United Kingdom",
     "fundingBody": "UK Foreign, Commonwealth & Development Office (FCDO)",
     "degreeLevels": [
       "MA"
     ],
     "fundingType": "Full",
-    "coverage": "Full university tuition, monthly living stipend, return economy flights, and visa fees.",
+    "coverage": "Full tuition fees, monthly living stipend, return economy flights, visa fee reimbursement, and arrival allowances.",
     "language": "English",
     "deadline": "November 2025",
-    "eligibility": "Egyptian citizens holding an undergraduate degree with at least 2 years of work experience in relevant creative or academic sectors.",
+    "eligibility": "Egyptian citizens holding a bachelor's degree with at least 2 years of work experience.",
     "fields": [
       "All Fields (incl. Arts)",
+      "Fine Arts",
       "Film",
       "Architecture",
-      "Arts Management",
-      "Heritage/Conservation"
+      "Design"
     ],
     "competitiveness": "Top Priority",
-    "notes": "Recipients must commit to returning to Egypt for a minimum of two years post-graduation.",
+    "notes": "Covers one-year master's degrees in any UK university. Applications for 2026/2027 open August 2025.",
     "linkUrl": "https://www.chevening.org/scholarship/egypt/"
   },
   {
-    "id": 19384,
-    "name": "Fulbright Egyptian Student Program - Master's Degree Grant",
+    "id": 59312,
+    "name": "DAAD Study Scholarships - Fine Arts, Design, Visual Communication and Film",
+    "country": "Germany",
+    "fundingBody": "German Academic Exchange Service (DAAD)",
+    "degreeLevels": [
+      "MA"
+    ],
+    "fundingType": "Full",
+    "coverage": "Monthly stipend of €934, travel allowance, health insurance, and annual study allowance.",
+    "language": "Both",
+    "deadline": "November 2025",
+    "eligibility": "Egyptian nationals with a Bachelor's degree in Fine Arts, Design, Visual Communication, or Film.",
+    "fields": [
+      "Fine Arts",
+      "Design",
+      "Film"
+    ],
+    "competitiveness": "Very High",
+    "notes": "Requires portfolio submission following specific DAAD portal instructions.",
+    "linkUrl": "https://www.daad.de/en/study-and-research-in-germany/scholarships/"
+  },
+  {
+    "id": 31904,
+    "name": "DAAD Study Scholarships - Architecture",
+    "country": "Germany",
+    "fundingBody": "German Academic Exchange Service (DAAD)",
+    "degreeLevels": [
+      "MA"
+    ],
+    "fundingType": "Full",
+    "coverage": "Monthly grant of €934, international travel allowance, health insurance, and study allowance.",
+    "language": "Both",
+    "deadline": "September 2025",
+    "eligibility": "Egyptian citizens holding a first university degree in Architecture, Interior Design, or Urban Conservation.",
+    "fields": [
+      "Architecture",
+      "Heritage/Conservation"
+    ],
+    "competitiveness": "Very High",
+    "notes": "Portfolio of architectural design work is a critical selection component.",
+    "linkUrl": "https://www.daad.de/en/study-and-research-in-germany/scholarships/"
+  },
+  {
+    "id": 72045,
+    "name": "Fulbright Egyptian Student Program (Master's Degree)",
     "country": "United States",
     "fundingBody": "Binational Fulbright Commission in Egypt",
     "degreeLevels": [
       "MA"
     ],
     "fundingType": "Full",
-    "coverage": "Full tuition coverage, living allowance, health benefits, and round-trip airfare.",
+    "coverage": "Tuition fees, living allowance, health insurance, airfare, and university placement assistance.",
     "language": "English",
     "deadline": "June 2025",
-    "eligibility": "Egyptian citizens residing in Egypt with a bachelor's degree in Fine Arts, Architecture, Heritage, or related disciplines.",
+    "eligibility": "Egyptian citizens residing in Egypt with a bachelor's degree and proven English language proficiency.",
     "fields": [
+      "All Fields (incl. Arts)",
       "Fine Arts",
-      "Design",
+      "Film",
       "Architecture",
-      "Heritage/Conservation",
-      "Film"
+      "Heritage/Conservation"
     ],
     "competitiveness": "Top Priority",
-    "notes": "Includes dedicated support for MFA programs and Museum/Heritage Conservation studies.",
+    "notes": "Provides full funding for master's programs in the US, including specialized art institutes.",
     "linkUrl": "https://fulbright-egypt.org/program/student/"
   },
   {
-    "id": 62910,
+    "id": 84192,
     "name": "Italian Government (MAECI) Grants for Foreign Students",
     "country": "Italy",
     "fundingBody": "Italian Ministry of Foreign Affairs and International Cooperation",
     "degreeLevels": [
       "MA",
-      "PhD"
+      "PhD",
+      "Other"
     ],
     "fundingType": "Full",
-    "coverage": "Exemption from tuition fees, health insurance coverage, and a monthly grant of €900.",
+    "coverage": "Monthly allowance of €900, tuition fee exemption at public institutions, and health insurance.",
     "language": "Both",
     "deadline": "June 2025",
-    "eligibility": "Egyptian nationals applying for Master's programs or AFAM (Higher Education in Art, Music, and Dance) academies in Italy.",
+    "eligibility": "Egyptian citizens under 28 years old (30 for PhD/AFAM) holding an appropriate academic degree.",
     "fields": [
-      "Fashion",
-      "Textiles",
       "Fine Arts",
       "Design",
-      "Architecture"
+      "Fashion",
+      "Architecture",
+      "Heritage/Conservation"
     ],
     "competitiveness": "High",
-    "notes": "Covers top Italian AFAM academies specializing in Fashion Design, Restoration, and Fine Arts.",
+    "notes": "Covers programs at Italian universities and AFAM institutions (Higher Education in Art, Music and Dance).",
     "linkUrl": "https://studyinitaly.esteri.it/en/call-for-procedures"
-  },
-  {
-    "id": 30582,
-    "name": "Eiffel Excellence Scholarship Programme",
-    "country": "France",
-    "fundingBody": "Campus France / French Ministry for Europe and Foreign Affairs",
-    "degreeLevels": [
-      "MA",
-      "PhD"
-    ],
-    "fundingType": "Full",
-    "coverage": "Monthly allowance (€1,181 for Master's / €1,800 for PhD), international travel, health coverage, and housing support.",
-    "language": "Both",
-    "deadline": "January 2026",
-    "eligibility": "Non-French candidates (including Egyptians) up to 27 years old for Master's level, nominated directly by French higher education institutions.",
-    "fields": [
-      "Architecture",
-      "Design",
-      "Fine Arts"
-    ],
-    "competitiveness": "Very High",
-    "notes": "Applications must be submitted on the candidate's behalf by an accepting French academic institution.",
-    "linkUrl": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence"
   }
 ]
