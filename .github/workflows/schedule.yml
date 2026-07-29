@@ -2,8 +2,8 @@ name: Weekly Scholarship Fetch
 
 on:
   schedule:
-    # Runs every Sunday at 03:00 UTC
-    - cron: '0 3 * * 0'
+    # Runs every Wednesday at 08:00 UTC
+    - cron: '0 8 * * 3'
   workflow_dispatch: # This allows you to manually click a button to run it anytime
 
 jobs:
