@@ -8,7 +8,7 @@ try:
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
     # Updated to the current active model alias
-    model = genai.GenerativeModel('gemini-2.0-flash')
+    model = genai.GenerativeModel('gemini-2.5-flash')
 
     prompt = """
     Search the web for newly announced, updated, or reopened FUNDED scholarships (full or partial) for undergraduate or postgraduate study in Applied Arts, Fine Arts, Fashion Design, Textile Design, Visual Communication, Film, Photography, Architecture, or Heritage Conservation — suitable for Egyptian nationals to study abroad.
